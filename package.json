@@ -21,7 +21,7 @@
     "phaser": "^4.2.0"
   },
   "devDependencies": {
-    "@types/node": "22.20.0",
+    "@types/node": "22.20.1",
     "esbuild": "0.28.1",
     "typescript": "6.0.3"
   }
